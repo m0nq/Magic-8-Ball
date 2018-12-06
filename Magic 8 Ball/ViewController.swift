@@ -20,6 +20,11 @@ class ViewController: UIViewController {
     }
 
     @IBAction func askButtonPressed(_ sender: Any) {
+        newBallImage()
+    }
+
+    override func motionEnded(_ motion: UIEvent.EventSubtype, with event: UIEvent?) {
+        newBallImage()
     }
 
     private func newBallImage() {
