@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   version = "1.3">
+   <BuildAction>
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForRunning = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "40E0732321B9DEB400BE839B"
+               BuildableName = "Magic 8 Ball.app"
+               BlueprintName = "Magic 8 Ball"
+               ReferencedContainer = "container:Magic 8 Ball.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <LaunchAction
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Debug"
+      allowLocationSimulation = "YES">
+      <BuildableProductRunnable>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "40E0732321B9DEB400BE839B"
+            BuildableName = "Magic 8 Ball.app"
+            BlueprintName = "Magic 8 Ball"
+            ReferencedContainer = "container:Magic 8 Ball.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </LaunchAction>
+</Scheme>
